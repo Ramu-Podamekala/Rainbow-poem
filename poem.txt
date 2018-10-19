@@ -1,11 +1,10 @@
-Rainbow colors
+Rainbow colors of unicode
 
 red
 green
 yellow
 orange
 blue
-gray
 pink
 purple
 this are colors of rainbow....
