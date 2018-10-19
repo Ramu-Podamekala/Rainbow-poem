@@ -1,5 +1,6 @@
 Rainbow colors of unicode
 Today is Earth day.
+I LOve Earth day.
 red
 green
 yellow
